@@ -1,0 +1,28 @@
+
+{
+  "savedArticles": [
+    {
+      "userId": "user_1715055879345",
+      "articles": [
+        {
+          "article_id": "example_article_1",
+          "title": "Global Economic Summit Announces New Trade Agreements",
+          "link": "https://example.com/news/1",
+          "description": "Major economies reach consensus on new trade policies aimed at sustainable growth.",
+          "pubDate": "2025-05-08T10:30:00.000Z",
+          "image_url": "https://example.com/images/summit.jpg",
+          "source_name": "Economic Times"
+        },
+        {
+          "article_id": "example_article_2",
+          "title": "Breakthrough in Renewable Energy Technology Announced",
+          "link": "https://example.com/news/2",
+          "description": "Scientists reveal new solar panel design with record-breaking efficiency ratings.",
+          "pubDate": "2025-05-07T14:15:00.000Z",
+          "image_url": "https://example.com/images/solar.jpg",
+          "source_name": "Science Today"
+        }
+      ]
+    }
+  ]
+}

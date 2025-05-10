@@ -1,0 +1,17 @@
+
+{
+  "users": [
+    {
+      "name": "user_1715055849912",
+      "email": "admin@newshub.com",
+      "password": "2025-05-08T12:30:00.000Z",
+      "role": "192.168.1.1"
+    },
+    {
+      "name": "user_1715055879345",
+      "email": "user@newshub.com",
+      "password": "2025-05-09T14:45:00.000Z",
+      "role": "192.168.1.2"
+    }
+  ]
+}
