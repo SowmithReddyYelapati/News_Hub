@@ -1,0 +1,1 @@
+Built a full-stack News Aggregator platform using React, Spring Boot, and MySQL, enabling automated news fetching from multiple APIs. Implemented category filters, trending highlights, and real-time weather updates to enhance user engagement.
